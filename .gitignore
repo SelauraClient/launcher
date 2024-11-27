@@ -1,0 +1,15 @@
+# IDE
+.vscode/
+.vs/
+.idea/
+
+# CMake
+/build/
+/out/
+/CMakeFiles/
+/CMakeCache.txt
+*.cmake
+Makefile
+
+# Binary
+/bin
